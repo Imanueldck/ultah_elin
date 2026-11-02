@@ -32,7 +32,7 @@ document.addEventListener("keydown", function(event) {
 });
 const typingText = document.getElementById("typingText");
 
-const text = " My Love! ❤️";
+const text = " Sayang! ❤️";
 
 let index = 0;
 
